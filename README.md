@@ -13,3 +13,7 @@ Bus management &amp; tracking system built with React, Spring Boot, and PostgreS
 - User: Search buses & view locations
 
 ## Project Structure
+Ebus-Management-System/
+│── backend/ # Spring Boot project
+│── frontend/ # React project
+│── README.md # Documentation
